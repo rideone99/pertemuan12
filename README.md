@@ -13,7 +13,7 @@ Pada pertemuan 12 saya diberi soal sebagai berikut :
 
 ## FLOWCHART
 
-![img](gambar/hahaha.PNG)
+![img](gambar/hahaha.png)
 
 ## PROGRAM PERTEMUAN 12
 Pertama saya akan membuat kelas mahasiswa sebagai berikut :
@@ -63,7 +63,7 @@ else:
 ```
 # TAMPILAN VISUAL STUDIO CODE
 
-![img](gambar/gambar.PNG)
+![img](gambar/gambar.png)
 
 
 # OUTPUT
