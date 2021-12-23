@@ -12,6 +12,7 @@ Pada pertemuan 12 saya diberi soal sebagai berikut :
 ![img](gambar/DIAGRAM.PNG)
 
 ## FLOWCHART
+
 ![img](gambar/hahaha.PNG)
 
 ## PROGRAM PERTEMUAN 12
@@ -63,6 +64,7 @@ else:
 # TAMPILAN VISUAL STUDIO CODE
 
 ![img](gambar/gambar.PNG)
+
 
 # OUTPUT
 
